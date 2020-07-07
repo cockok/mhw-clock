@@ -20,7 +20,9 @@
     "eslint-plugin-vue": "^5.0.0",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "minimist": ">=1.2.3",
+    "acorn": ">=6.4.1"
   },
   "eslintConfig": {
     "root": true,
