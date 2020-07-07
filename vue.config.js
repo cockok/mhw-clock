@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/mhw-clock',
+  publicPath: '/mhw-clock/dist',
   configureWebpack: {
     output: {
       filename: 'js/mhw-clock.js',
