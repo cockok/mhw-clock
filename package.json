@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
     "vue-template-compiler": "^2.6.11",
-    "minimist": ">=1.2.3",
+    "minimist": ">=1.2.6",
     "acorn": ">=6.4.1"
   },
   "eslintConfig": {
